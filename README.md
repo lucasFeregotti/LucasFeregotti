@@ -1,7 +1,7 @@
 # 👋 Hola, soy Lucas Feregotti
 
 🎓 Estudiante de Desarrollo de Software  
-☕ Backend con Java + Spring Boot  
+
 
 
 ## 💻 Tech Stack
